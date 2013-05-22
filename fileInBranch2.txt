@@ -1,1 +1,2 @@
 Addition of file in Branch2
+This addition is for the sake of testing.
